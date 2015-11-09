@@ -1,3 +1,5 @@
+markdown: redcarpet
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -6,7 +8,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Build settings
-markdown: redcarpet
+
 
 # Site setting
 title: This is the new title for the standard template
