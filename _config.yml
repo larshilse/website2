@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# Build settings
+markdown: redcarpet
+
 # Site settings
 title: This is the new title for the standard template
 email: your-email2@domain.com
@@ -17,6 +20,5 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
-markdown: redcarpet
+
 
