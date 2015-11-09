@@ -8,7 +8,7 @@
 # Build settings
 markdown: redcarpet
 
-# Site settings
+# Site setting
 title: This is the new title for the standard template
 email: your-email2@domain.com
 description: > # this means to ignore newlines until "baseurl:"
